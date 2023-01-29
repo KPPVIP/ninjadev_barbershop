@@ -1,0 +1,1 @@
+ALTER TABLE users ADD hair longtext NOT NULL;
